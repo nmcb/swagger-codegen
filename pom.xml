@@ -470,7 +470,7 @@
         <scala-test-version>2.1.4</scala-test-version>
         <commons-io-version>2.3</commons-io-version>
         <commons-cli-version>1.2</commons-cli-version>
-        <junit-version>4.8.1</junit-version>
+        <junit-version>4.8.2</junit-version>
         <maven-plugin-version>1.0.0</maven-plugin-version>
         <commons-lang-version>2.4</commons-lang-version>
         <slf4j-version>1.6.3</slf4j-version>
